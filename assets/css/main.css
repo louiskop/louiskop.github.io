@@ -177,6 +177,21 @@ textarea {
     right: 10%;
 }
 
+.project-links {
+    list-style: none;
+    color: white;
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.project-link {
+    margin-right: 4%;
+}
+
+.project-link > * {
+    padding-right: 1%;
+}
+
 @media screen and (max-width: 480px) {
     #homepic {
         width: 100px;
