@@ -192,6 +192,10 @@ textarea {
     padding-right: 1%;
 }
 
+.reference {
+    color: white;
+}
+
 @media screen and (max-width: 480px) {
     #homepic {
         width: 100px;
